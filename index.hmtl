@@ -12,7 +12,8 @@
   <h1>Aprendiendo Git</h1>
   <p>Mis primeros pasos en el versionado de codigo</p>
   <script>
-
+  src = "index.js"
+  //Escrito desde la rama html
   </script>
 
 </body>
